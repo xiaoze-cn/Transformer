@@ -1,0 +1,84 @@
+BLEU = 6.39
+Test sentences = 8549
+
+Translation examples:
+
+Source: 几年前，在TED大会上， Peter Skillman 介绍了一个设计挑战 叫做“棉花糖挑战”
+Reference: Several years ago here at TED, Peter Skillman introduced a design challenge called the marshmallow challenge.
+Prediction: A few years ago, Luther King, a challenge called Skins, called Skins, and a challenge for TED.
+
+Source: 是个非常简单的主意 要求一组四人的团队搭建一个独立的最高建筑 材料是20根意大利面条 一段胶带，一段绳子 一块棉花糖
+Reference: And the idea's pretty simple: Teams of four have to build the tallest free-standing structure out of 20 sticks of spaghetti, one yard of tape, one yard of string and a marshmallow.
+Prediction: A group of people in Italy, a group of people, a very simple idea of candy, a group of candy, a very simple idea of candy, a 20-step-step-step-step-like building.
+
+Source: 棉花糖必须放在最上面
+Reference: The marshmallow has to be on top.
+Prediction: You have to put candy in the cotton.
+
+Source: 这虽然看似简单，其实并不容易 因为它要求人们 迅速地合作
+Reference: And, though it seems really simple, it's actually pretty hard because it forces people to collaborate very quickly.
+Prediction: It's not very easy to see, because it's not very easy to see how people are doing it.
+
+Source: 我觉得这是个有趣的主意 我把它放到了设计专题讨论会上
+Reference: And so, I thought this was an interesting idea, and I incorporated it into a design workshop.
+Prediction: I think this is an interesting idea of design, and I think it's a design issue.
+
+Source: 结果非常成功
+Reference: And it was a huge success.
+Prediction: And it turns out that successful successes.
+
+Source: 从那以后， 我在全球 70多个设计专题讨论活动中 让学生们和设计者，建筑师 甚至财富50强的首席技术官 这个练习在很多方面给了我们 深刻的启迪 教会我们合作的特性 在这里我跟你们分享一些
+Reference: And since then, I've conducted about 70 design workshops across the world with students and designers and architects, even the CTOs of the Fortune 50, and there's something about this exercise that reveals very deep lessons about the nature of collaboration, and I'd like to share some of them with you.
+Prediction: I'm here to share with you a lot of the most of the things that I'm working with, and I'm working with you, and I'm doing a lot of researcher, and that's a lot of the design of the design of the top 50 students that we're doing, and the work with the students, and the students, and the design of the way we're doing this.
+
+Source: 通常， 人们总是从 讨论开始着手完成这个任务
+Reference: So, normally, most people begin by orienting themselves to the task.
+Prediction: People often start talking about this task, and often they start talking about it.
+
+Source: 他们讨论一阵， 勾勒出结果会是什么样子 他们互相争论一番对错
+Reference: They talk about it, they figure out what it's going to look like, they jockey for power.
+Prediction: They're talking about what the results are, and they're talking about what the results are.
+
+Source: 然后花费点时间计划，组织 他们画一下图纸然后拿出意大利面条
+Reference: Then they spend some time planning, organizing, they sketch and they lay out spaghetti.
+Prediction: They spend a minute on the edges, and then they spend a little bit of time on the edges of time on the edges.
+
+Source: 他们用了大量的时间 把意大利面条组装得越来越高
+Reference: They spend the majority of their time assembling the sticks into ever-growing structures.
+Prediction: They're getting bigger and bigger and bigger and bigger and bigger and bigger and bigger and bigger and bigger and bigger.
+
+Source: 然后最后，时间快要用完了 他们拿出棉花糖 小心翼翼地将棉花糖放到最上面 然后他们后退一步，哈哈 他们欣赏着他们的成果
+Reference: And then finally, just as they're running out of time, someone takes out the marshmallow, and then they gingerly put it on top, and then they stand back, and -- ta-da! -- they admire their work.
+Prediction: They're going to spend their time in the Hahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahah, and they're going to spend the end up with the end of the end of the time.
+
+Source: 但是绝大多数时候，真正发生的是 “哈哈” 变成了“糟了” 因为棉花糖的重量把整个结构 给压散架了
+Reference: But what really happens, most of the time, is that the "ta-da" turns into an "uh-oh," because the weight of the marshmallow causes the entire structure to buckle and to collapse.
+Prediction: But what's really bad about the entire structure of the entire time is that the entire structure of the entire structure, because the entire structure of the candy is the entire structure of the candy.
+
+Source: 有那么一些人 他们的“糟了”时刻比其他人多 其中最糟的是新毕业的商学院学生
+Reference: So there are a number of people who have a lot more "uh-oh" moments than others, and among the worst are recent graduates of business school.
+Prediction: Some of them were worse than others, and they had a chance to get the wrong time.
+
+Source: 他们说谎，他们欺骗，很容易受干扰 他们的建筑构造非常蹩脚
+Reference: They lie, they cheat, they get distracted and they produce really lame structures.
+Prediction: They said, "They is very easy to lie, and they're very easy to break the foot.
+
+Source: 当然也有一些团队 他们创造了更多的“哈哈”时刻 其中最好的，就是新毕业的幼儿园小朋友
+Reference: And of course there are teams that have a lot more "ta-da" structures, and among the best are recent graduates of kindergarten.
+Prediction: And of course, there are some of the best friends in Hubblebean, and they're doing more of the first time, and there's a little friends of course.
+
+Source: 这个真是很神奇
+Reference: And it's pretty amazing.
+Prediction: That's amazing.
+
+Source: 正如PETER告诉我们的 他们不但造出了最高的建筑 而且他们搭建的结构也是最有趣的
+Reference: As Peter tells us, not only do they produce the tallest structures, but they're the most interesting structures of them all.
+Prediction: And they told us that the most interesting building structures, but they also built the most interesting structures of our building structures.
+
+Source: 所以你会问 这是怎么回事？他们到底有什么特点？
+Reference: So the question you want to ask is: How come? Why? What is it about them?
+Prediction: So what do you do? What do you do?
+
+Source: Peter喜欢这样说： “因为没有任何孩子企图做 意大利面条公司的总裁。” 是的
+Reference: And Peter likes to say that none of the kids spend any time trying to be CEO of Spaghetti, Inc. Right?
+Prediction: The Kids say, "Yes, because it's not the one that's like to do this."
