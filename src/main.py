@@ -8,7 +8,6 @@ import sacrebleu
 import sentencepiece as spm
 import torch
 import torch.nn as nn
-from datasets import load_dataset
 from torch.utils.data import DataLoader, Dataset
 from tqdm import tqdm
 
@@ -28,6 +27,8 @@ def device():
 
 
 def preprocess():
+    from datasets import load_dataset
+
     data = cfg.data
     Path(data.data_dir).mkdir(parents=True, exist_ok=True)
     Path(data.raw_dir).mkdir(parents=True, exist_ok=True)
@@ -133,7 +134,7 @@ class Translator(nn.Module):
             num_encoder_layers=model_cfg.num_layers,
             num_decoder_layers=model_cfg.num_layers,
             dim_feedforward=model_cfg.dim_feedforward,
-            dropout=model_cfg.dropout,
+            dropout=model_cfg.dropout, 
             batch_first=True,
         )
         self.out = nn.Linear(dim, vocab_size)
